@@ -7,3 +7,5 @@ create repository
 https://github.com/umesh-git-training/git_pod2.git   - https
 
 git@github.com:umesh-git-training/git_pod2.git  - ssh
+------
+first changes in this file - 6/25/2020 - 12:01
