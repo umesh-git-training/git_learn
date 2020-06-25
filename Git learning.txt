@@ -1,0 +1,9 @@
+C:/Users/umkumar/OneDrive - Capgemini/git_pod2/.git/--
+git hub
+username umesh-git-training
+umeshgit11
+
+create repository
+https://github.com/umesh-git-training/git_pod2.git   - https
+
+git@github.com:umesh-git-training/git_pod2.git  - ssh
